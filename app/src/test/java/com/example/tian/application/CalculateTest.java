@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  * Created by tian on 2017/3/15.
  */
 public class CalculateTest {
-private  Calculate  calculate;
+private  Calculate   calculate;
     @Before
     public void setUp() throws Exception {
 calculate=new Calculate();
